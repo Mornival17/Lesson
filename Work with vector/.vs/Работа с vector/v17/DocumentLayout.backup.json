@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\Desktop\\\u0421\u002B\u002B\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13346B2B-8CE7-49B3-A68D-4A1A49483DEE}|\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.vcxproj|C:\\Users\\\u041F\u041A\\Desktop\\\u0421\u002B\u002B\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13346B2B-8CE7-49B3-A68D-4A1A49483DEE}|\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.vcxproj|solutionrelative:\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\\u0421\u002B\u002B\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.cpp",
+              "RelativeDocumentMoniker": "\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\\u0421\u002B\u002B\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.cpp",
+              "RelativeToolTip": "\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 vector.cpp",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAmwI8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T08:16:57.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
